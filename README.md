@@ -3,9 +3,13 @@ This is a basic uninstaller made with simple python to uninstall any program eas
 
 ## How to use ?
 `apt update
+
 apt install python3
+
 git clone https://github.com/al-ghareeb/uninstaller.git
+
 cd uninstaller
+
 python3 uninstaller.py`
 
 ### Tested on...
