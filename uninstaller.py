@@ -23,5 +23,6 @@ subprocess.call("apt autoclean " ,  shell=True )
 
 # Note for deleteing .cinfig progrom file
 subprocess.call("clear" ,  shell=True )
+subprocess.call("figlet -f Basic.flf 'Al Ghareeb' | lolcat" ,  shell=True )
 subprocess.call("echo 'Now just go to your home folder and press cttl+H this will show hidden files and find a folder called '.config' click on it now delete the folder with the name ''" + program + "''. Name maybe vary. And if the folder dose not there then leave it asit is.' | lolcat " ,  shell=True )
 subprocess.call("echo ''" ,  shell=True )
